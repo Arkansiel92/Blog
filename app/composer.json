@@ -1,0 +1,14 @@
+{
+    "name": "yaj92/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joeil"
+        }
+    ],
+    "require": {}
+}
